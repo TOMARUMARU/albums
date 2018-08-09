@@ -1,5 +1,5 @@
 import React from 'react';
-impot { View, Text } from 'react-native';
+import { View, Text } from 'react-native';
 
 const AlbumList = () => {
   return (
