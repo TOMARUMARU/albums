@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { View, Text } from 'react-native';
-import axions from 'axios';
+import axios from 'axios';
 
 class AlbumList extends Component {
   componentWillMount() {
