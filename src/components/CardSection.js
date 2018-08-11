@@ -20,3 +20,5 @@ const styles = {
     positon: 'relative'
   }
 };
+
+export default CardSection;
