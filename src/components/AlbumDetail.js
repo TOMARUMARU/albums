@@ -34,6 +34,6 @@ const styles = {
     height: 50,
     width: 50
   }
-}
+};
 
 export default AlbumDetail;
